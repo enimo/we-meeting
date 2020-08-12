@@ -5,11 +5,9 @@
 /server/public/
 
 /app/public/config/
-!/app/public/config/config.js
 !/app/public/config/config.example.js
 
 /server/config/
-!/server/config/config.js
 !/server/config/config.example.js
 
 server/certs/
