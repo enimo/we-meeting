@@ -11,8 +11,9 @@
 /server/config/
 !/server/config/config.example.js
 
-server/certs/
+/server/certs/
 !/server/certs/mediasoup-demo.localhost.*
+
 .vscode
 
 
