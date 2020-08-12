@@ -1,13 +1,15 @@
-node_modules/
+/app/node_modules
+/server/node_modules
 
 /app/build/
 /server/public/
 
+/app/public/config/
 !/app/public/config/config.js
-/app/public/images/logo.*
+!/app/public/config/config.example.js
 
-
-!/server/config/
+/server/config/
+!/server/config/config.js
 !/server/config/config.example.js
 
 server/certs/
@@ -15,4 +17,4 @@ server/certs/
 .vscode
 
 
-!log/
+log/

@@ -76,7 +76,7 @@ module.exports =
 	redisOptions : {},
 	// session cookie secret
 	cookieSecret : 'T0P-S3cR3t_cook!e',
-	cookieName   : 'multiparty-meeting.sid',
+	cookieName   : 'we-meeting.sid',
 	// if you use encrypted private key the set the passphrase
 	tls          :
 	{

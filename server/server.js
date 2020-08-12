@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+process.env.DEBUG = "mediasoup*";  // add debug info 
+
 process.title = 'multiparty-meeting-server';
 
 const config = require('./config/config');
