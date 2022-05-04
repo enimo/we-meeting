@@ -20,8 +20,8 @@ $ sudo apt install git npm build-essential redis
 * Clone the project:
 
 ```bash
-$ git clone https://github.com/WebRTC-CN/we-meeting-demo.git
-$ cd we-meeting-demo
+$ git clone git@github.com:enimo/we-meeting.git
+$ cd we-meeting
 ```
 
 * Copy `server/config/config.example.js` to `server/config/config.js` :
